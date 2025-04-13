@@ -47,10 +47,10 @@ ___
 [![FreePalestine](https://img.shields.io/badge/free_palestine-black?style=for-the-badge&labelColor=212121&color=2d2d2d&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTc5IiBoZWlnaHQ9IjEwNiIgdmlld0JveD0iMCAwIDE3OSAxMDYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHg9IjE5IiB5PSI3IiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjkyIiBmaWxsPSJibGFjayIvPgo8cmVjdCB4PSIxOSIgeT0iMzcuNjciIHdpZHRoPSIxNjAiIGhlaWdodD0iMzAuNjY2NyIgZmlsbD0id2hpdGUiLz4KPHJlY3QgeD0iMTkiIHk9IjY4LjM0IiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjMwLjY2NjciIGZpbGw9IiMxNDk5NTQiLz4KPHBhdGggZD0iTTc2IDUzTDE5IDk4Ljg5OTNMMTkgNy4xMDA2Nkw3NiA1M1oiIGZpbGw9IiNFNDMxMkIiLz4KPC9zdmc+Cg==)](https://gazafunds.com)</br>
 ```
 ~
-❯whoami
+❯ whoami
 sigilpunk
 
 ~
-❯uptime
+❯ uptime
 fuck if i know dawg
 ```
