@@ -1,5 +1,5 @@
 # About Me
-hey, im [**sigilpunk**](https://github.com/sigilpunk) (they/she) :)    
+hey, im milo, [**sigilpunk**](https://github.com/sigilpunk) some places and **matcha/matchamilo** in others (they/she) :)    
 im a recreational internet user and aspiring cybersec professional who dabbles in whatever i please.  
 right now im working on:
 - [TinSpire](https://github.com/sigilpunk/TinSpire) - a collection of creative libraries and 3D tools for the TI-Nspire CX II range
