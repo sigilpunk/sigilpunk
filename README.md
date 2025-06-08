@@ -22,6 +22,8 @@ right now im working on:
 
 ![A+](https://images.credly.com/size/110x110/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)
 ![Linux+](https://images.credly.com/size/110x110/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob)
+![Network+](https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)
+![Security+](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)
 ![CSSS](https://images.credly.com/size/110x110/images/802502c7-7b2c-4a96-82b0-e6aa5796e878/CompTIA_CSSS.png)
 ![Microsoft Office Specialist](https://images.credly.com/size/110x110/images/7fab944f-0d46-4cda-afb6-39307e2432a9/MOS_-_Office_Specialist_Associate-600x600.png)
 ## Stats:
