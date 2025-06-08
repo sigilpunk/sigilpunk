@@ -2,6 +2,7 @@
 hey! im milo. [**sigilpunk**](https://github.com/sigilpunk) some places and **matcha/matchamilo** in others (they/she) :)    
 im a recreational internet user and aspiring cybersec professional who dabbles in whatever i please.  
 right now im working on:
+- [DiscogsTools](https://github.com/sigilpunk/DiscogsTools) - a Powershell module with to interact with the Discogs API
 - [TinSpire](https://github.com/sigilpunk/TinSpire) - a collection of creative libraries and 3D tools for the TI-Nspire CX II range
 - [pduck](https://github.com/sigilpunk/pduck) - a small bash script designed to make installing & configuring [PicoDucky](https://github.com/dbisu/pico-ducky) on your rpi pico super quick and easy  
 
@@ -25,7 +26,7 @@ right now im working on:
 ![Microsoft Office Specialist](https://images.credly.com/size/110x110/images/7fab944f-0d46-4cda-afb6-39307e2432a9/MOS_-_Office_Specialist_Associate-600x600.png)
 ## Stats:
 [![Top](https://github-readme-stats.vercel.app/api?username=sigilpunk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/sigilpunk)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigilpunk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/sigilpunk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigilpunk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=myconfig)](https://github.com/sigilpunk)
 ## Elsewhere
 - 🌐 [neocities](https://sigilpunk.neocities.org)
 ___
