@@ -1,5 +1,5 @@
 # About Me
-hey! im milo. [**sigilpunk**](https://github.com/sigilpunk) some places and **matcha/matchamilo** in others (they/she) :)    
+hey! im milo (they/she), [**sigilpunk**](https://github.com/sigilpunk) some places, and **matcha/matchamilo** in others    
 im a recreational internet user and aspiring cybersec professional who dabbles in whatever i please.  
 right now im working on:
 - [DiscogsTools](https://github.com/sigilpunk/DiscogsTools) - a Powershell module with to interact with the Discogs API
