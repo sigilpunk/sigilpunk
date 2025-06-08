@@ -17,7 +17,7 @@ right now im working on:
 ## things i've done
 - placed 1st at the [2024 Michigan Governor’s High School Cyber Challenge](https://www.sans.org/mlp/ghscc-michigan/#round2)
 - placed 3rd in Michigan in the 2024 CyberPatriot competition
-- started a band with my friends B)
+- started a band with my friends :)
 ## Certifications (non-exhaustive)
 
 ![A+](https://images.credly.com/size/110x110/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)
