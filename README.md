@@ -4,7 +4,8 @@ im a recreational internet user and aspiring cybersec professional who dabbles i
 right now im working on:
 - [DiscogsTools](https://github.com/sigilpunk/DiscogsTools) - a Powershell module with to interact with the Discogs API
 - [TinSpire](https://github.com/sigilpunk/TinSpire) - a collection of creative libraries and 3D tools for the TI-Nspire CX II range
-- [pduck](https://github.com/sigilpunk/pduck) - a small bash script designed to make installing & configuring [PicoDucky](https://github.com/dbisu/pico-ducky) on your rpi pico super quick and easy  
+- [pduck](https://github.com/sigilpunk/pduck) - a small bash script designed to make installing & configuring [PicoDucky](https://github.com/dbisu/pico-ducky) on your rpi pico super quick and easy
+- [Milatro](https://github.com/sigilpunk/Milatro) - a custom Balatro mod to dip my toes into Lua
 
 ## things i love
 - my cat basil <3
