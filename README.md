@@ -1,5 +1,5 @@
 # About Me
-hey! im milo (they/she), [**sigilpunk**](https://github.com/sigilpunk) some places, and **matcha/matchamilo** in others    
+hey! im milo (they/them), [**sigilpunk**](https://github.com/sigilpunk) some places, and **matcha/matchamilo** in others    
 im a recreational internet user and aspiring cybersec professional who dabbles in whatever i please.  
 right now im working on:
 - [DiscogsTools](https://github.com/sigilpunk/DiscogsTools) - a Powershell module with to interact with the Discogs API
@@ -13,7 +13,6 @@ right now im working on:
 - reverse engineering APIs
 - RF/WiFi hacking
 - malware analysis
-- blackened salmon on a rice pilaf with a side of broccoli
 
 ## things i've done
 - placed 1st at the [2024 Michigan Governor’s High School Cyber Challenge](https://www.sans.org/mlp/ghscc-michigan/#round2)
