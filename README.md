@@ -2,6 +2,7 @@
 hey! im milo (they/them), [**sigilpunk**](https://github.com/sigilpunk) some places, and **matcha/matchamilo** in others    
 im a recreational internet user and aspiring cybersec professional who dabbles in whatever i please.  
 right now im working on:
+- ⭐ [leetRoute](https://github.com/sigilpunk/leetRoute) - a custom route planning app for recreational and spirited drivers
 - [DiscogsTools](https://github.com/sigilpunk/DiscogsTools) - a Powershell module with to interact with the Discogs API
 - [TinSpire](https://github.com/sigilpunk/TinSpire) - a collection of creative libraries and 3D tools for the TI-Nspire CX II range
 - [pduck](https://github.com/sigilpunk/pduck) - a small bash script designed to make installing & configuring [PicoDucky](https://github.com/dbisu/pico-ducky) on your rpi pico super quick and easy
