@@ -1,19 +1,20 @@
 # About Me
-hey! im milo (they/them), [**sigilpunk**](https://github.com/sigilpunk) some places, and **matcha/matchamilo** in others    
-im a recreational internet user and aspiring cybersec professional who dabbles in whatever i please.  
+hey! [**sigilpunk**](https://github.com/sigilpunk) im a recreational internet user and dabble in whatever i please.  
 right now im working on:
-- -> [leetRoute](https://github.com/sigilpunk/leetRoute) - a custom route planning app for recreational and spirited drivers
+- -> [Milatro](https://github.com/sigilpunk/Milatro) - a custom Balatro mod to dip my toes into Lua
+- [leetRoute](https://github.com/sigilpunk/leetRoute) - a custom route planning app for recreational and spirited drivers
 - [DiscogsTools](https://github.com/sigilpunk/DiscogsTools) - a Powershell module with to interact with the Discogs API
 - [TinSpire](https://github.com/sigilpunk/TinSpire) - a collection of creative libraries and 3D tools for the TI-Nspire CX II range
 - [pduck](https://github.com/sigilpunk/pduck) - a small bash script designed to make installing & configuring [PicoDucky](https://github.com/dbisu/pico-ducky) on your rpi pico super quick and easy
-- [Milatro](https://github.com/sigilpunk/Milatro) - a custom Balatro mod to dip my toes into Lua
+
 
 ## things i love
-- my cat basil <3
+- my cat <3
 - hardware hacking
 - reverse engineering APIs
 - RF/WiFi hacking
 - malware analysis
+- making one-off utils that break instantly
 
 ## things i've done
 - placed 1st at the [2024 Michigan Governor’s High School Cyber Challenge](https://www.sans.org/mlp/ghscc-michigan/#round2)
